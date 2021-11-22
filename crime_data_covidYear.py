@@ -51,7 +51,7 @@ for i in range(len(new_locations)):
     
     folium.CircleMarker(location= [lat,long], popup= popup_text, 
                         fill= True).add_to(liverpool_map)
-    
+liverpool_map   
 #(6) simple criminal rate index DF
     
 df['unique_locations'] = list(zip(df['Longitude'], df['Latitude']))
@@ -99,12 +99,11 @@ for i in range(500):
     
     
 os.chdir(r'C:\Users\pigle\OneDrive\Documents\Business Analytics\MSc Project')
- #liverpool_map.save("mymap1.html") #saves map in cwd as html    
+#liverpool_map.save("mymap1.html") #saves map in cwd as html    
 liverpool_map_CR.save("mymap2.html")   
 webbrowser.open("mymap2.html")
-    
+liverpool_map_CR    
                    
-
 #(7) a closer look at violent offences/ sorted array of counts/ overall monthly trend
 df_crimetype_violence = df[df['Crime type']=='Violence and sexual offences']
 plt.figure(figsize = (11, 7))
@@ -186,3 +185,4 @@ for i in range(500):
 folium.TileLayer('cartodbpositron').add_to(liverpool_map_burglary)
 
 liverpool_map_burglary.save("mymap3.html")   
+liverpool_map_burglary
