@@ -186,6 +186,4 @@ for i in range(500):
 folium.TileLayer('cartodbpositron').add_to(liverpool_map_burglary)
 
 liverpool_map_burglary.save("mymap3.html")   
-liverpool_map
-liverpool_map_CR
-liverpool_map_burglary
+mymap3.html
