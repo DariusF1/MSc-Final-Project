@@ -1,6 +1,6 @@
 # MSc-Project-Crime-Forecasting
 
-A collection of Python code I applied in my MSc Final Project for EDA, forecasting, clustering and ensemble methods. Part of the EDA included some beautiful Folium package mapping which will be uploaded when the best way of displaying it in Jupyter is discovered.
+A collection of Python code I applied in my MSc Final Project for EDA, forecasting, clustering and ensemble methods. Part of the EDA included some beautiful Folium package mapping which will be uploaded when the best means of displaying it in Jupyter is found.
 
 Abstract
 
