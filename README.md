@@ -2,7 +2,7 @@
 
 A collection of Python code I applied in my MSc Final Project for EDA, forecasting, clustering and ensemble methods. 
 
-Part of the EDA included some beautiful Folium package mapping which will be uploaded when the best means of displaying it in Jupyter is discovered. More code will be uploaded in the coming weeks as I aim to present the analysis process and methods in the clearest manner.
+Part of the 1_EDA includes some beautiful Folium package mapping. More code will be uploaded in the coming weeks as I aim to present the analysis process and methods in the clearest way possible.
 
 An overview of the model developments below:
 
