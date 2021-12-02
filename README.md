@@ -1,8 +1,8 @@
-# Thesis Title: Spatio-Temporal-Crime-Hotspot-Detection-and-Prediction-in-Urban-North-West-England
+# Thesis Title: Spatio Temporal Crime Hotspot Detection and Prediction in Urban North West England
 
 Portfolio of py code I applied in my MSc Final Project for exploratory data analysis, forecasting, clustering and ensemble methods. 
 
-File 1_EDA includes some beautiful Folium package mapping. More code will be uploaded in the coming weeks as I aim to present the analysis process and methods in the clearest way possible.
+1_ includes some beautiful Folium package mapping. More code will be uploaded in the coming weeks as I aim to present the analysis process and methods in the clearest way possible.
 
 An overview of the model developments below:
 
