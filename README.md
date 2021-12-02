@@ -1,4 +1,4 @@
-# MSc-Project-Crime-Forecasting
+# Thesis Title: Spatio-Temporal-Crime-Hotspot-Detection-and-Prediction-in-Urban-North-West-England
 
 Portfolio of py code I applied in my MSc Final Project for EDA, forecasting, clustering and ensemble methods. 
 
