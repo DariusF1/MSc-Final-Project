@@ -2,7 +2,7 @@
 
 Portfolio of py code I applied in my MSc Final Project for exploratory data analysis, forecasting, clustering and ensemble methods. 
 
-1_ includes some beautiful Folium package mapping. More code will be uploaded in the coming weeks as I aim to present the analysis process and methods in the clearest way possible.
+1_ includes some beautiful Folium package mapping. Do check back as more code will be uploaded weekly as I aim to present the analysis process and methods in the clearest way possible.
 
 An overview of the model developments:
 
