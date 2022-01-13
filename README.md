@@ -4,7 +4,7 @@ Portfolio of Python code I applied in my MSc Final Project for exploratory data 
 
 1_ includes some beautiful Folium package mapping. Do check back as more code will be uploaded weekly as I aim to present the analysis process and methods in the clearest possible manner.
 
-An overview of the model developments:
+An overview of the model development:
 
 ![image](https://user-images.githubusercontent.com/14150309/143782449-3c0b5140-dd1b-4b64-809d-d2795eb9fc49.png)
 
